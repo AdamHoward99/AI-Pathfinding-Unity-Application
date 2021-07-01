@@ -1,0 +1,1166 @@
+
+BFS : elapsed time = 37.0279 Milliseconds. 
+Amount of nodes explored : 1576
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 44.60798%
+
+BFS : elapsed time = 37.0279 Milliseconds. 
+Amount of nodes explored : 1576
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 44.60798%
+
+BFS : elapsed time = 37.0279 Milliseconds. 
+Amount of nodes explored : 1576
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 44.60798%
+
+DFS : elapsed time = 31.3781 Milliseconds. 
+Amount of nodes explored : 1531
+Amount of nodes in the Path : 264
+Percentage of Map nodes explored : 43.33427%
+
+BFS : elapsed time = 37.0279 Milliseconds. 
+Amount of nodes explored : 1576
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 44.60798%
+
+DFS : elapsed time = 31.3781 Milliseconds. 
+Amount of nodes explored : 1531
+Amount of nodes in the Path : 264
+Percentage of Map nodes explored : 43.33427%
+
+Hierarchical Pathfinding Optimization : Elapsed Time = 4.0197 Milliseconds 
+Amount of Nodes explored: 246
+Amount of Nodes in the path : 66
+Percentage of Map nodes explored : 6.962921%
+
+BFS : elapsed time = 37.0279 Milliseconds. 
+Amount of nodes explored : 1576
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 44.60798%
+
+DFS : elapsed time = 31.3781 Milliseconds. 
+Amount of nodes explored : 1531
+Amount of nodes in the Path : 264
+Percentage of Map nodes explored : 43.33427%
+
+Hierarchical Pathfinding Optimization : Elapsed Time = 4.0197 Milliseconds 
+Amount of Nodes explored: 246
+Amount of Nodes in the path : 66
+Percentage of Map nodes explored : 6.962921%
+
+DFS : elapsed time = 31.6414 Milliseconds. 
+Amount of nodes explored : 1531
+Amount of nodes in the Path : 264
+Percentage of Map nodes explored : 43.33427%
+
+BFS : elapsed time = 37.0279 Milliseconds. 
+Amount of nodes explored : 1576
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 44.60798%
+
+DFS : elapsed time = 31.3781 Milliseconds. 
+Amount of nodes explored : 1531
+Amount of nodes in the Path : 264
+Percentage of Map nodes explored : 43.33427%
+
+Hierarchical Pathfinding Optimization : Elapsed Time = 4.0197 Milliseconds 
+Amount of Nodes explored: 246
+Amount of Nodes in the path : 66
+Percentage of Map nodes explored : 6.962921%
+
+DFS : elapsed time = 31.6414 Milliseconds. 
+Amount of nodes explored : 1531
+Amount of nodes in the Path : 264
+Percentage of Map nodes explored : 43.33427%
+
+A* Search : elapsed time = 2.3035 Milliseconds. 
+Amount of nodes explored : 397
+Amount of nodes in the Path : 76
+Percentage of Map nodes explored : 11.23691%
+
+A* Search : elapsed time = 3.9252 Milliseconds. 
+Amount of nodes explored : 410
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 11.60487%
+
+A* Search : elapsed time = 3.9252 Milliseconds. 
+Amount of nodes explored : 410
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 11.60487%
+
+A* Search : elapsed time = 2.771 Milliseconds. 
+Amount of nodes explored : 373
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 10.5576%
+
+BFS : elapsed time = 182.8799 Milliseconds. 
+Amount of nodes explored : 3414
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 63.96852%
+
+BFS : elapsed time = 182.8799 Milliseconds. 
+Amount of nodes explored : 3414
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 63.96852%
+
+DFS : elapsed time = 276.9537 Milliseconds. 
+Amount of nodes explored : 4353
+Amount of nodes in the Path : 283
+Percentage of Map nodes explored : 81.56268%
+
+BFS : elapsed time = 182.8799 Milliseconds. 
+Amount of nodes explored : 3414
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 63.96852%
+
+DFS : elapsed time = 276.9537 Milliseconds. 
+Amount of nodes explored : 4353
+Amount of nodes in the Path : 283
+Percentage of Map nodes explored : 81.56268%
+
+A* Search : elapsed time = 13.5716 Milliseconds. 
+Amount of nodes explored : 1095
+Amount of nodes in the Path : 100
+Percentage of Map nodes explored : 20.51715%
+
+BFS : elapsed time = 182.8799 Milliseconds. 
+Amount of nodes explored : 3414
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 63.96852%
+
+DFS : elapsed time = 276.9537 Milliseconds. 
+Amount of nodes explored : 4353
+Amount of nodes in the Path : 283
+Percentage of Map nodes explored : 81.56268%
+
+A* Search : elapsed time = 13.5716 Milliseconds. 
+Amount of nodes explored : 1095
+Amount of nodes in the Path : 100
+Percentage of Map nodes explored : 20.51715%
+
+A* Search : elapsed time = 17.2592 Milliseconds. 
+Amount of nodes explored : 1035
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 19.39292%
+
+BFS : elapsed time = 182.8799 Milliseconds. 
+Amount of nodes explored : 3414
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 63.96852%
+
+DFS : elapsed time = 276.9537 Milliseconds. 
+Amount of nodes explored : 4353
+Amount of nodes in the Path : 283
+Percentage of Map nodes explored : 81.56268%
+
+A* Search : elapsed time = 13.5716 Milliseconds. 
+Amount of nodes explored : 1095
+Amount of nodes in the Path : 100
+Percentage of Map nodes explored : 20.51715%
+
+A* Search : elapsed time = 17.2592 Milliseconds. 
+Amount of nodes explored : 1035
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 19.39292%
+
+A* Search : elapsed time = 15.354 Milliseconds. 
+Amount of nodes explored : 973
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 18.23122%
+
+BFS : elapsed time = 182.8799 Milliseconds. 
+Amount of nodes explored : 3414
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 63.96852%
+
+DFS : elapsed time = 276.9537 Milliseconds. 
+Amount of nodes explored : 4353
+Amount of nodes in the Path : 283
+Percentage of Map nodes explored : 81.56268%
+
+A* Search : elapsed time = 13.5716 Milliseconds. 
+Amount of nodes explored : 1095
+Amount of nodes in the Path : 100
+Percentage of Map nodes explored : 20.51715%
+
+A* Search : elapsed time = 17.2592 Milliseconds. 
+Amount of nodes explored : 1035
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 19.39292%
+
+A* Search : elapsed time = 15.354 Milliseconds. 
+Amount of nodes explored : 973
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 18.23122%
+
+A* Search : elapsed time = 21.6719 Milliseconds. 
+Amount of nodes explored : 1038
+Amount of nodes in the Path : 72
+Percentage of Map nodes explored : 19.44913%
+
+BFS : elapsed time = 182.8799 Milliseconds. 
+Amount of nodes explored : 3414
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 63.96852%
+
+DFS : elapsed time = 276.9537 Milliseconds. 
+Amount of nodes explored : 4353
+Amount of nodes in the Path : 283
+Percentage of Map nodes explored : 81.56268%
+
+A* Search : elapsed time = 13.5716 Milliseconds. 
+Amount of nodes explored : 1095
+Amount of nodes in the Path : 100
+Percentage of Map nodes explored : 20.51715%
+
+A* Search : elapsed time = 17.2592 Milliseconds. 
+Amount of nodes explored : 1035
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 19.39292%
+
+A* Search : elapsed time = 15.354 Milliseconds. 
+Amount of nodes explored : 973
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 18.23122%
+
+A* Search : elapsed time = 21.6719 Milliseconds. 
+Amount of nodes explored : 1038
+Amount of nodes in the Path : 72
+Percentage of Map nodes explored : 19.44913%
+
+A* Search : elapsed time = 20.1322 Milliseconds. 
+Amount of nodes explored : 1097
+Amount of nodes in the Path : 73
+Percentage of Map nodes explored : 20.55462%
+
+BFS : elapsed time = 182.8799 Milliseconds. 
+Amount of nodes explored : 3414
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 63.96852%
+
+DFS : elapsed time = 276.9537 Milliseconds. 
+Amount of nodes explored : 4353
+Amount of nodes in the Path : 283
+Percentage of Map nodes explored : 81.56268%
+
+A* Search : elapsed time = 13.5716 Milliseconds. 
+Amount of nodes explored : 1095
+Amount of nodes in the Path : 100
+Percentage of Map nodes explored : 20.51715%
+
+A* Search : elapsed time = 17.2592 Milliseconds. 
+Amount of nodes explored : 1035
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 19.39292%
+
+A* Search : elapsed time = 15.354 Milliseconds. 
+Amount of nodes explored : 973
+Amount of nodes in the Path : 71
+Percentage of Map nodes explored : 18.23122%
+
+A* Search : elapsed time = 21.6719 Milliseconds. 
+Amount of nodes explored : 1038
+Amount of nodes in the Path : 72
+Percentage of Map nodes explored : 19.44913%
+
+A* Search : elapsed time = 20.1322 Milliseconds. 
+Amount of nodes explored : 1097
+Amount of nodes in the Path : 73
+Percentage of Map nodes explored : 20.55462%
+
+A* Search : elapsed time = 15.8536 Milliseconds. 
+Amount of nodes explored : 1110
+Amount of nodes in the Path : 100
+Percentage of Map nodes explored : 20.7982%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+A* Search : elapsed time = 0.2503 Milliseconds. 
+Amount of nodes explored : 159
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 71.62162%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+A* Search : elapsed time = 0.2503 Milliseconds. 
+Amount of nodes explored : 159
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 71.62162%
+
+A* Search : elapsed time = 0.2796 Milliseconds. 
+Amount of nodes explored : 112
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 50.45045%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+A* Search : elapsed time = 0.2503 Milliseconds. 
+Amount of nodes explored : 159
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 71.62162%
+
+A* Search : elapsed time = 0.2796 Milliseconds. 
+Amount of nodes explored : 112
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 50.45045%
+
+A* Search : elapsed time = 0.1852 Milliseconds. 
+Amount of nodes explored : 103
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 46.3964%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+A* Search : elapsed time = 0.2503 Milliseconds. 
+Amount of nodes explored : 159
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 71.62162%
+
+A* Search : elapsed time = 0.2796 Milliseconds. 
+Amount of nodes explored : 112
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 50.45045%
+
+A* Search : elapsed time = 0.1852 Milliseconds. 
+Amount of nodes explored : 103
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 46.3964%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+A* Search : elapsed time = 0.2503 Milliseconds. 
+Amount of nodes explored : 159
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 71.62162%
+
+A* Search : elapsed time = 0.2796 Milliseconds. 
+Amount of nodes explored : 112
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 50.45045%
+
+A* Search : elapsed time = 0.1852 Milliseconds. 
+Amount of nodes explored : 103
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 46.3964%
+
+Floyd-Warshall Optimization: 789.1495 Milliseconds
+Amount of nodes in the Path : 22
+
+A* Search : elapsed time = 0.3016 Milliseconds. 
+Amount of nodes explored : 109
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 49.0991%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+A* Search : elapsed time = 0.2503 Milliseconds. 
+Amount of nodes explored : 159
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 71.62162%
+
+A* Search : elapsed time = 0.2796 Milliseconds. 
+Amount of nodes explored : 112
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 50.45045%
+
+A* Search : elapsed time = 0.1852 Milliseconds. 
+Amount of nodes explored : 103
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 46.3964%
+
+Floyd-Warshall Optimization: 789.1495 Milliseconds
+Amount of nodes in the Path : 22
+
+A* Search : elapsed time = 0.3016 Milliseconds. 
+Amount of nodes explored : 109
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 49.0991%
+
+A* Search : elapsed time = 0.4759 Milliseconds. 
+Amount of nodes explored : 148
+Amount of nodes in the Path : 24
+Percentage of Map nodes explored : 66.66667%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+A* Search : elapsed time = 0.2503 Milliseconds. 
+Amount of nodes explored : 159
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 71.62162%
+
+A* Search : elapsed time = 0.2796 Milliseconds. 
+Amount of nodes explored : 112
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 50.45045%
+
+A* Search : elapsed time = 0.1852 Milliseconds. 
+Amount of nodes explored : 103
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 46.3964%
+
+Floyd-Warshall Optimization: 789.1495 Milliseconds
+Amount of nodes in the Path : 22
+
+A* Search : elapsed time = 0.3016 Milliseconds. 
+Amount of nodes explored : 109
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 49.0991%
+
+A* Search : elapsed time = 0.4759 Milliseconds. 
+Amount of nodes explored : 148
+Amount of nodes in the Path : 24
+Percentage of Map nodes explored : 66.66667%
+
+A* Search : elapsed time = 0.4838 Milliseconds. 
+Amount of nodes explored : 148
+Amount of nodes in the Path : 24
+Percentage of Map nodes explored : 66.66667%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+A* Search : elapsed time = 0.2503 Milliseconds. 
+Amount of nodes explored : 159
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 71.62162%
+
+A* Search : elapsed time = 0.2796 Milliseconds. 
+Amount of nodes explored : 112
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 50.45045%
+
+A* Search : elapsed time = 0.1852 Milliseconds. 
+Amount of nodes explored : 103
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 46.3964%
+
+Floyd-Warshall Optimization: 789.1495 Milliseconds
+Amount of nodes in the Path : 22
+
+A* Search : elapsed time = 0.3016 Milliseconds. 
+Amount of nodes explored : 109
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 49.0991%
+
+A* Search : elapsed time = 0.4759 Milliseconds. 
+Amount of nodes explored : 148
+Amount of nodes in the Path : 24
+Percentage of Map nodes explored : 66.66667%
+
+A* Search : elapsed time = 0.4838 Milliseconds. 
+Amount of nodes explored : 148
+Amount of nodes in the Path : 24
+Percentage of Map nodes explored : 66.66667%
+
+A* Search : elapsed time = 0.4168 Milliseconds. 
+Amount of nodes explored : 165
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 74.32433%
+
+BFS : elapsed time = 0.3868 Milliseconds. 
+Amount of nodes explored : 203
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 91.44144%
+
+DFS : elapsed time = 0.1986 Milliseconds. 
+Amount of nodes explored : 153
+Amount of nodes in the Path : 49
+Percentage of Map nodes explored : 68.91892%
+
+A* Search : elapsed time = 0.2503 Milliseconds. 
+Amount of nodes explored : 159
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 71.62162%
+
+A* Search : elapsed time = 0.2796 Milliseconds. 
+Amount of nodes explored : 112
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 50.45045%
+
+A* Search : elapsed time = 0.1852 Milliseconds. 
+Amount of nodes explored : 103
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 46.3964%
+
+Floyd-Warshall Optimization: 789.1495 Milliseconds
+Amount of nodes in the Path : 22
+
+A* Search : elapsed time = 0.3016 Milliseconds. 
+Amount of nodes explored : 109
+Amount of nodes in the Path : 22
+Percentage of Map nodes explored : 49.0991%
+
+A* Search : elapsed time = 0.4759 Milliseconds. 
+Amount of nodes explored : 148
+Amount of nodes in the Path : 24
+Percentage of Map nodes explored : 66.66667%
+
+A* Search : elapsed time = 0.4838 Milliseconds. 
+Amount of nodes explored : 148
+Amount of nodes in the Path : 24
+Percentage of Map nodes explored : 66.66667%
+
+A* Search : elapsed time = 0.4168 Milliseconds. 
+Amount of nodes explored : 165
+Amount of nodes in the Path : 41
+Percentage of Map nodes explored : 74.32433%
+
+Hierarchical Pathfinding Optimization : Elapsed Time = 0.0668 Milliseconds 
+Amount of Nodes explored: 30
+Amount of Nodes in the path : 22
+Percentage of Map nodes explored : 13.51351%
+
+BFS : elapsed time = 0.396 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 73.44398%
+
+BFS : elapsed time = 0.396 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 73.44398%
+
+DFS : elapsed time = 0.076 Milliseconds. 
+Amount of nodes explored : 68
+Amount of nodes in the Path : 55
+Percentage of Map nodes explored : 28.21577%
+
+BFS : elapsed time = 0.396 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 73.44398%
+
+DFS : elapsed time = 0.076 Milliseconds. 
+Amount of nodes explored : 68
+Amount of nodes in the Path : 55
+Percentage of Map nodes explored : 28.21577%
+
+A* Search : elapsed time = 0.114 Milliseconds. 
+Amount of nodes explored : 86
+Amount of nodes in the Path : 23
+Percentage of Map nodes explored : 35.68465%
+
+BFS : elapsed time = 0.396 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 73.44398%
+
+DFS : elapsed time = 0.076 Milliseconds. 
+Amount of nodes explored : 68
+Amount of nodes in the Path : 55
+Percentage of Map nodes explored : 28.21577%
+
+A* Search : elapsed time = 0.114 Milliseconds. 
+Amount of nodes explored : 86
+Amount of nodes in the Path : 23
+Percentage of Map nodes explored : 35.68465%
+
+A* Search : elapsed time = 0.2152 Milliseconds. 
+Amount of nodes explored : 95
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 39.41909%
+
+BFS : elapsed time = 0.396 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 73.44398%
+
+DFS : elapsed time = 0.076 Milliseconds. 
+Amount of nodes explored : 68
+Amount of nodes in the Path : 55
+Percentage of Map nodes explored : 28.21577%
+
+A* Search : elapsed time = 0.114 Milliseconds. 
+Amount of nodes explored : 86
+Amount of nodes in the Path : 23
+Percentage of Map nodes explored : 35.68465%
+
+A* Search : elapsed time = 0.2152 Milliseconds. 
+Amount of nodes explored : 95
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 39.41909%
+
+A* Search : elapsed time = 0.202 Milliseconds. 
+Amount of nodes explored : 90
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 37.3444%
+
+BFS : elapsed time = 0.396 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 73.44398%
+
+DFS : elapsed time = 0.076 Milliseconds. 
+Amount of nodes explored : 68
+Amount of nodes in the Path : 55
+Percentage of Map nodes explored : 28.21577%
+
+A* Search : elapsed time = 0.114 Milliseconds. 
+Amount of nodes explored : 86
+Amount of nodes in the Path : 23
+Percentage of Map nodes explored : 35.68465%
+
+A* Search : elapsed time = 0.2152 Milliseconds. 
+Amount of nodes explored : 95
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 39.41909%
+
+A* Search : elapsed time = 0.202 Milliseconds. 
+Amount of nodes explored : 90
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 37.3444%
+
+BFS : elapsed time = 0.396 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 73.44398%
+
+DFS : elapsed time = 0.076 Milliseconds. 
+Amount of nodes explored : 68
+Amount of nodes in the Path : 55
+Percentage of Map nodes explored : 28.21577%
+
+A* Search : elapsed time = 0.114 Milliseconds. 
+Amount of nodes explored : 86
+Amount of nodes in the Path : 23
+Percentage of Map nodes explored : 35.68465%
+
+A* Search : elapsed time = 0.2152 Milliseconds. 
+Amount of nodes explored : 95
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 39.41909%
+
+A* Search : elapsed time = 0.202 Milliseconds. 
+Amount of nodes explored : 90
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 37.3444%
+
+Floyd-Warshall Optimization: 972.8633 Milliseconds
+Amount of nodes in the Path : 17
+
+A* Search : elapsed time = 0.865 Milliseconds. 
+Amount of nodes explored : 195
+Amount of nodes in the Path : 25
+Percentage of Map nodes explored : 80.91286%
+
+BFS : elapsed time = 0.396 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 73.44398%
+
+DFS : elapsed time = 0.076 Milliseconds. 
+Amount of nodes explored : 68
+Amount of nodes in the Path : 55
+Percentage of Map nodes explored : 28.21577%
+
+A* Search : elapsed time = 0.114 Milliseconds. 
+Amount of nodes explored : 86
+Amount of nodes in the Path : 23
+Percentage of Map nodes explored : 35.68465%
+
+A* Search : elapsed time = 0.2152 Milliseconds. 
+Amount of nodes explored : 95
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 39.41909%
+
+A* Search : elapsed time = 0.202 Milliseconds. 
+Amount of nodes explored : 90
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 37.3444%
+
+Floyd-Warshall Optimization: 972.8633 Milliseconds
+Amount of nodes in the Path : 17
+
+A* Search : elapsed time = 0.865 Milliseconds. 
+Amount of nodes explored : 195
+Amount of nodes in the Path : 25
+Percentage of Map nodes explored : 80.91286%
+
+Hierarchical Pathfinding Optimization : Elapsed Time = 0.0466 Milliseconds 
+Amount of Nodes explored: 22
+Amount of Nodes in the path : 18
+Percentage of Map nodes explored : 9.128631%
+
+BFS : elapsed time = 0.4834 Milliseconds. 
+Amount of nodes explored : 187
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 76.32653%
+
+BFS : elapsed time = 0.4834 Milliseconds. 
+Amount of nodes explored : 187
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 76.32653%
+
+DFS : elapsed time = 0.1233 Milliseconds. 
+Amount of nodes explored : 85
+Amount of nodes in the Path : 46
+Percentage of Map nodes explored : 34.69388%
+
+BFS : elapsed time = 0.4834 Milliseconds. 
+Amount of nodes explored : 187
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 76.32653%
+
+DFS : elapsed time = 0.1233 Milliseconds. 
+Amount of nodes explored : 85
+Amount of nodes in the Path : 46
+Percentage of Map nodes explored : 34.69388%
+
+A* Search : elapsed time = 0.2942 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 19
+Percentage of Map nodes explored : 55.91837%
+
+BFS : elapsed time = 0.4834 Milliseconds. 
+Amount of nodes explored : 187
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 76.32653%
+
+DFS : elapsed time = 0.1233 Milliseconds. 
+Amount of nodes explored : 85
+Amount of nodes in the Path : 46
+Percentage of Map nodes explored : 34.69388%
+
+A* Search : elapsed time = 0.2942 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 19
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.4841 Milliseconds. 
+Amount of nodes explored : 138
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 56.32653%
+
+BFS : elapsed time = 0.4834 Milliseconds. 
+Amount of nodes explored : 187
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 76.32653%
+
+DFS : elapsed time = 0.1233 Milliseconds. 
+Amount of nodes explored : 85
+Amount of nodes in the Path : 46
+Percentage of Map nodes explored : 34.69388%
+
+A* Search : elapsed time = 0.2942 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 19
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.4841 Milliseconds. 
+Amount of nodes explored : 138
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 56.32653%
+
+A* Search : elapsed time = 0.4073 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 55.91837%
+
+BFS : elapsed time = 0.4834 Milliseconds. 
+Amount of nodes explored : 187
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 76.32653%
+
+DFS : elapsed time = 0.1233 Milliseconds. 
+Amount of nodes explored : 85
+Amount of nodes in the Path : 46
+Percentage of Map nodes explored : 34.69388%
+
+A* Search : elapsed time = 0.2942 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 19
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.4841 Milliseconds. 
+Amount of nodes explored : 138
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 56.32653%
+
+A* Search : elapsed time = 0.4073 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.7525 Milliseconds. 
+Amount of nodes explored : 163
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 66.53062%
+
+BFS : elapsed time = 0.4834 Milliseconds. 
+Amount of nodes explored : 187
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 76.32653%
+
+DFS : elapsed time = 0.1233 Milliseconds. 
+Amount of nodes explored : 85
+Amount of nodes in the Path : 46
+Percentage of Map nodes explored : 34.69388%
+
+A* Search : elapsed time = 0.2942 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 19
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.4841 Milliseconds. 
+Amount of nodes explored : 138
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 56.32653%
+
+A* Search : elapsed time = 0.4073 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.7525 Milliseconds. 
+Amount of nodes explored : 163
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 66.53062%
+
+A* Search : elapsed time = 0.8535 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 72.2449%
+
+BFS : elapsed time = 0.4834 Milliseconds. 
+Amount of nodes explored : 187
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 76.32653%
+
+DFS : elapsed time = 0.1233 Milliseconds. 
+Amount of nodes explored : 85
+Amount of nodes in the Path : 46
+Percentage of Map nodes explored : 34.69388%
+
+A* Search : elapsed time = 0.2942 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 19
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.4841 Milliseconds. 
+Amount of nodes explored : 138
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 56.32653%
+
+A* Search : elapsed time = 0.4073 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.7525 Milliseconds. 
+Amount of nodes explored : 163
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 66.53062%
+
+A* Search : elapsed time = 0.8535 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 72.2449%
+
+A* Search : elapsed time = 0.4768 Milliseconds. 
+Amount of nodes explored : 143
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 58.36735%
+
+BFS : elapsed time = 0.4834 Milliseconds. 
+Amount of nodes explored : 187
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 76.32653%
+
+DFS : elapsed time = 0.1233 Milliseconds. 
+Amount of nodes explored : 85
+Amount of nodes in the Path : 46
+Percentage of Map nodes explored : 34.69388%
+
+A* Search : elapsed time = 0.2942 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 19
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.4841 Milliseconds. 
+Amount of nodes explored : 138
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 56.32653%
+
+A* Search : elapsed time = 0.4073 Milliseconds. 
+Amount of nodes explored : 137
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 55.91837%
+
+A* Search : elapsed time = 0.7525 Milliseconds. 
+Amount of nodes explored : 163
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 66.53062%
+
+A* Search : elapsed time = 0.8535 Milliseconds. 
+Amount of nodes explored : 177
+Amount of nodes in the Path : 16
+Percentage of Map nodes explored : 72.2449%
+
+A* Search : elapsed time = 0.4768 Milliseconds. 
+Amount of nodes explored : 143
+Amount of nodes in the Path : 17
+Percentage of Map nodes explored : 58.36735%
+
+BFS : elapsed time = 15.0022 Milliseconds. 
+Amount of nodes explored : 1086
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 96.4476%
+
+BFS : elapsed time = 15.0022 Milliseconds. 
+Amount of nodes explored : 1086
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 96.4476%
+
+DFS : elapsed time = 6.4109 Milliseconds. 
+Amount of nodes explored : 787
+Amount of nodes in the Path : 131
+Percentage of Map nodes explored : 69.89342%
+
+BFS : elapsed time = 15.0022 Milliseconds. 
+Amount of nodes explored : 1086
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 96.4476%
+
+DFS : elapsed time = 6.4109 Milliseconds. 
+Amount of nodes explored : 787
+Amount of nodes in the Path : 131
+Percentage of Map nodes explored : 69.89342%
+
+A* Search : elapsed time = 4.9989 Milliseconds. 
+Amount of nodes explored : 706
+Amount of nodes in the Path : 63
+Percentage of Map nodes explored : 62.69983%
+
+BFS : elapsed time = 15.0022 Milliseconds. 
+Amount of nodes explored : 1086
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 96.4476%
+
+DFS : elapsed time = 6.4109 Milliseconds. 
+Amount of nodes explored : 787
+Amount of nodes in the Path : 131
+Percentage of Map nodes explored : 69.89342%
+
+A* Search : elapsed time = 4.9989 Milliseconds. 
+Amount of nodes explored : 706
+Amount of nodes in the Path : 63
+Percentage of Map nodes explored : 62.69983%
+
+A* Search : elapsed time = 9.2576 Milliseconds. 
+Amount of nodes explored : 818
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 72.64654%
+
+BFS : elapsed time = 15.0022 Milliseconds. 
+Amount of nodes explored : 1086
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 96.4476%
+
+DFS : elapsed time = 6.4109 Milliseconds. 
+Amount of nodes explored : 787
+Amount of nodes in the Path : 131
+Percentage of Map nodes explored : 69.89342%
+
+A* Search : elapsed time = 4.9989 Milliseconds. 
+Amount of nodes explored : 706
+Amount of nodes in the Path : 63
+Percentage of Map nodes explored : 62.69983%
+
+A* Search : elapsed time = 9.2576 Milliseconds. 
+Amount of nodes explored : 818
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 72.64654%
+
+A* Search : elapsed time = 8.195 Milliseconds. 
+Amount of nodes explored : 782
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 69.44938%
+
+BFS : elapsed time = 15.0022 Milliseconds. 
+Amount of nodes explored : 1086
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 96.4476%
+
+DFS : elapsed time = 6.4109 Milliseconds. 
+Amount of nodes explored : 787
+Amount of nodes in the Path : 131
+Percentage of Map nodes explored : 69.89342%
+
+A* Search : elapsed time = 4.9989 Milliseconds. 
+Amount of nodes explored : 706
+Amount of nodes in the Path : 63
+Percentage of Map nodes explored : 62.69983%
+
+A* Search : elapsed time = 9.2576 Milliseconds. 
+Amount of nodes explored : 818
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 72.64654%
+
+A* Search : elapsed time = 8.195 Milliseconds. 
+Amount of nodes explored : 782
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 69.44938%
+
+A* Search : elapsed time = 11.2217 Milliseconds. 
+Amount of nodes explored : 846
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 75.13322%
+
+BFS : elapsed time = 15.0022 Milliseconds. 
+Amount of nodes explored : 1086
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 96.4476%
+
+DFS : elapsed time = 6.4109 Milliseconds. 
+Amount of nodes explored : 787
+Amount of nodes in the Path : 131
+Percentage of Map nodes explored : 69.89342%
+
+A* Search : elapsed time = 4.9989 Milliseconds. 
+Amount of nodes explored : 706
+Amount of nodes in the Path : 63
+Percentage of Map nodes explored : 62.69983%
+
+A* Search : elapsed time = 9.2576 Milliseconds. 
+Amount of nodes explored : 818
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 72.64654%
+
+A* Search : elapsed time = 8.195 Milliseconds. 
+Amount of nodes explored : 782
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 69.44938%
+
+A* Search : elapsed time = 11.2217 Milliseconds. 
+Amount of nodes explored : 846
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 75.13322%
+
+A* Search : elapsed time = 12.9077 Milliseconds. 
+Amount of nodes explored : 914
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 81.17229%
+
+BFS : elapsed time = 15.0022 Milliseconds. 
+Amount of nodes explored : 1086
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 96.4476%
+
+DFS : elapsed time = 6.4109 Milliseconds. 
+Amount of nodes explored : 787
+Amount of nodes in the Path : 131
+Percentage of Map nodes explored : 69.89342%
+
+A* Search : elapsed time = 4.9989 Milliseconds. 
+Amount of nodes explored : 706
+Amount of nodes in the Path : 63
+Percentage of Map nodes explored : 62.69983%
+
+A* Search : elapsed time = 9.2576 Milliseconds. 
+Amount of nodes explored : 818
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 72.64654%
+
+A* Search : elapsed time = 8.195 Milliseconds. 
+Amount of nodes explored : 782
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 69.44938%
+
+A* Search : elapsed time = 11.2217 Milliseconds. 
+Amount of nodes explored : 846
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 75.13322%
+
+A* Search : elapsed time = 12.9077 Milliseconds. 
+Amount of nodes explored : 914
+Amount of nodes in the Path : 54
+Percentage of Map nodes explored : 81.17229%
+
+A* Search : elapsed time = 7.0503 Milliseconds. 
+Amount of nodes explored : 747
+Amount of nodes in the Path : 64
+Percentage of Map nodes explored : 66.34103%
+
+DFS : elapsed time = 30.1499 Milliseconds. 
+Amount of nodes explored : 1531
+Amount of nodes in the Path : 264
+Percentage of Map nodes explored : 43.33427%
